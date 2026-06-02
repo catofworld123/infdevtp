@@ -26,9 +26,14 @@ Version-specific features:
 -----------------------
 Versions:
 
-Infdev 20100227-1433 🟨\n
-Infdev 20100313      🟨\n
-Infdev 20100316      🟨\n
-Infdev 20100320      🟨\n
-Infdev 20100321-1817 🟨\n
-Infdev 20100325-1640 ✅\n
+Infdev 20100227-1433 🟨
+|
+Infdev 20100313      🟨
+|
+Infdev 20100316      🟨
+|
+Infdev 20100320      🟨
+|
+Infdev 20100321-1817 🟨
+|
+Infdev 20100325-1640 ✅
