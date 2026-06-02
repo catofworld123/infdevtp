@@ -26,9 +26,9 @@ Version-specific features:
 -----------------------
 Versions:
 
-1. Infdev 20100227-1433 🟨
-2. Infdev 20100313      🟨
-3. Infdev 20100316      🟨
-4. Infdev 20100320      🟨
-5. Infdev 20100321-1817 🟨
-6. Infdev 20100325-1640 ✅
+1. Infdev 20100227 🟨
+2. Infdev 20100313 🟨
+3. Infdev 20100316 🟨
+4. Infdev 20100320 🟨
+5. Infdev 20100321 🟨
+6. Infdev 20100325 ✅
