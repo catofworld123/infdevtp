@@ -18,22 +18,17 @@ It opens the GUI where you input the X, Y, Z coordinates. If you select the "Pla
 Also a small overlay displaying X,Y,Z coordinates.
 -----------------------
 -----------------------
-Version-specific features:
+Version-specific features: 
 
-|| Infdev 20100325-1640:
+1. Infdev 20100325-1640: 
     Changed the behaviour of flowers in order to not impact framerate
 -----------------------
 -----------------------
 Versions:
 
-Infdev 20100227-1433 🟨
-|
-Infdev 20100313      🟨
-|
-Infdev 20100316      🟨
-|
-Infdev 20100320      🟨
-|
-Infdev 20100321-1817 🟨
-|
-Infdev 20100325-1640 ✅
+1. Infdev 20100227-1433 🟨
+2. Infdev 20100313      🟨
+3. Infdev 20100316      🟨
+4. Infdev 20100320      🟨
+5. Infdev 20100321-1817 🟨
+6. Infdev 20100325-1640 ✅
