@@ -6,10 +6,10 @@ A little collection of teleport jarmods i made because retrowrapper doesnt work 
 -----------------------
 How to use:
 
-Install prism launcher/multiMC
-Install the needed version
-Click "add to minecraft jar" and choose the downloaded zip for the respected version
-Choose java 8, and run the game.
+1. Install prism launcher/multiMC
+2. Install the needed version
+3. Click "add to minecraft jar" and choose the downloaded zip for the respected version
+4. Choose java 8, and run the game.
 -----------------------
 -----------------------
 Features:
