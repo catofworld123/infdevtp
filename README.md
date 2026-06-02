@@ -21,7 +21,7 @@ Also a small overlay displaying X,Y,Z coordinates.
 Version-specific features:
 
 || Infdev 20100325-1640:
-    *Changed the behaviour of flowers in order to not impact framerate
+    Changed the behaviour of flowers in order to not impact framerate
 -----------------------
 -----------------------
 Versions:
